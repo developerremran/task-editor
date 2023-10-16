@@ -1,0 +1,10 @@
+/* tailwind middleware */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-range {
+    background: linear-gradient(to right, green 0%, green 100%);
+  }
+  
